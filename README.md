@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um estudante brasileiro de 17 anos focado no meu sonho de me tornar um programador expert na minha área.</p>
+<p align="left">Sou um estudante brasileiro de 17 anos focado no meu sonho de me tornar um programador sênior</p>
 
 ###
 
