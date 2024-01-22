@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2021<br>📚 Aprendendo Python<br>🎯 Foco: Me tornar um programador Full-Stack<br>🎲 Fun fact: Gosto de programar ouvindo música</p>
+<p align="left">✨ Criando bugs desde 2021</p>
 
 ###
 
