@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2021</p>
+<p align="left">✨ Criando bugs desde 2018</p>
 
 ###
 
