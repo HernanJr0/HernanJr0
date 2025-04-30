@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/hernantoro" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=02d14b&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=009439&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:luistoro.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=luistoro.dev@gmail.com&logo=gmail&label=&color=02d14b&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=luistoro.dev@gmail.com&logo=gmail&label=&color=009439&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
