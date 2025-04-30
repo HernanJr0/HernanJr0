@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">💻 Junior Developer at [Grupo Bringel](gbringel.com)<br><br>🛠️ Tech Stack: React · TypeScript · Python/Django · Docker · Azure<br><br>🚀 Focus: secure, containerized web apps & REST APIs<br><br>🎯 Next Up: cloud CI/CD, microservices patterns, Kubernetes fundamentals, automated testing & observability</p>
+<p align="left">💻 Junior Developer at <a href="https://gbringel.com">Grupo Bringel</a><br><br>🛠️ Tech Stack: React · TypeScript · Python/Django · Docker · Azure<br><br>🚀 Focus: secure, containerized web apps & REST APIs<br><br>🎯 Next Up: cloud CI/CD, microservices patterns, Kubernetes fundamentals, automated testing & observability</p>
 
 ###
 
