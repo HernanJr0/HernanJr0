@@ -1,30 +1,40 @@
-
-<h2 align="left">Hi 👋! My name is Hernan and I'm a Developer, from Brazil</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/hernantoro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=02d14b&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:luistoro.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=luistoro.dev@gmail.com&logo=gmail&label=&color=02d14b&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
-<br clear="both">
+<h1 align="left">Hey there 👋</h1>
+
+###
+
+<h3 align="left">My name is Luis Hernan Junior</h3>
+
+###
+
+<p align="left">💻 Junior Developer at [Grupo Bringel](gbringel.com)<br><br>🛠️ Tech Stack: React · TypeScript · Python/Django · Docker · Azure<br><br>🚀 Focus: secure, containerized web apps & REST APIs<br><br>🎯 Next Up: cloud CI/CD, microservices patterns, Kubernetes fundamentals, automated testing & observability</p>
+
+###
+
+<h3 align="left">🛠️ Tech Stack</h3>
+
+###
+
+<p align="left">React JS • TypeScript • Python • Django REST • Docker • Azure • JavaScript • HTML • CSS</p>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HernanJr0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=HernanJr0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HernanJr0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HernanJr0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
