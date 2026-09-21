@@ -25,6 +25,7 @@
 
 ###
 
-<p align="left">React JS • TypeScript • Python • Django REST • Docker • Azure DevOps • TypeScript • HTML • CSS</p>
+<p align="left">React • TypeScript • Python • Django REST Framework</p
+<p align="left">PostgreSQL • Docker • Azure DevOps</p      
 
 ###
